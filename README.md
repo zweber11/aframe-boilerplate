@@ -1,6 +1,10 @@
 # A-Frame Boilerplate
 
-Boilerplate for creating WebVR scenes using A-Frame.
+Boilerplate for creating WebVR scenes with [A-Frame](https://aframe.io).
+
+Alternatively, check out the [A-Frame Starter on
+glitch.com](https://glitch.com/~aframe) for a more interactive way on getting
+started.
 
 ## Getting Started
 
@@ -38,7 +42,7 @@ Or, you can simply __[fork this CodePen example](http://codepen.io/team/mozvr/pe
 
 ## Publishing your scene
 
-If you don't already know, GitHub offers free and awesome publishing of static sites through __[https://pages.github.com/](GitHub Pages)__.
+If you don't already know, GitHub offers free and awesome publishing of static sites through __[GitHub Pages](https://pages.github.com/)__.
 
 To publish your scene to your personal GitHub Pages:
 
